@@ -1,0 +1,67 @@
+#panel {width:790px;
+		height:670px;
+		background-color:#CCCCCC;
+		border:2px solid;
+		}
+		
+td {width:15px;
+	height:15px;
+	border:1px solid;
+	background-color:white;
+	}
+	
+.alive {background-color:red;
+		}
+
+#start {width:80px;
+		position:relative;
+		top:20px;
+		left:20px;
+		}
+
+#restart {width:80px;
+		  position:relative;
+		  top:60px;
+		  left:-64px;
+		  }
+		  
+p {position:relative;
+   top:25px;
+   left:24px;
+   font-size:15px;}
+
+#tablo {width:100px;
+		height:50px;
+		border:2px solid;
+		font-size:45px;
+		text-align:center;
+		background-color:white;
+		position:relative;
+		top:20px;
+		left:20px;
+		}
+		
+#field {position:relative;
+		top:-140px;
+		left:140px}
+
+#end {width:350px;
+	  height:100px;
+	  background-color:white;
+	  border:2px solid;
+	  position:relative;
+	  top:-530px;
+	  left:210px;
+	  padding-left:30px;
+	  display:none
+	  }
+	  
+#phrase {position:relative;
+		 left:0px;
+		 }
+		 
+#symbol_end {position:relative;
+			 top:-40px;
+			 left:325px;
+			 cursor:pointer;
+			 }
